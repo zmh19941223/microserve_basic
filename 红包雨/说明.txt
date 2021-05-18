@@ -1,0 +1,12 @@
+java.zip：
+
+后端的java项目源代码
+backend : 管理后台源码
+frontend : 接口微服务源码
+
+
+
+h5.zip：
+
+前端h5页面
+部署的目录在 /opt/data/nginx/html
